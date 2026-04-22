@@ -1,7 +1,0 @@
-{
-  "framework": null,
-  "buildCommand": "echo 'StockTraderV5 is a local Python app — no build step on Vercel.'",
-  "installCommand": "echo 'Skipping npm install.'",
-  "outputDirectory": "day-trader/static",
-  "cleanUrls": true
-}
